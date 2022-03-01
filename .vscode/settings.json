@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\mitha\\Desktop\\Mithaniel\\Dev\\spigot-1.8.8-R0.1-SNAPSHOT-latest.jar",
+        "e:\\Devellopement\\Java\\Server Dev 1.8.8\\spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"
+    ]
+}
